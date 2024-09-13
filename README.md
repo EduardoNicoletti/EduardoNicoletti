@@ -1,16 +1,15 @@
-## Hi there 👋
+## Olá bem vindo ao meu perfil 👋💚💚💚
 
-<!--
-**EduardoNicoletti/EduardoNicoletti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Eduardo Nicoletti
 
-Here are some ideas to get you started:
+- Estou estudando no Alura
+- Estou me desenvolvendo na linguagem de JavaScript
+- Utilizarei esse espaço para compartilhar meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Entar em contato comigo 📬
+
+00001129132730SP@al.educacao.sp.gov.br
+
+
+
+![ ](https://media1.tenor.com/m/-ROOryBOHygAAAAC/skeleton-dancing-skeleton.gif)
